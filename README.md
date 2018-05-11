@@ -37,7 +37,7 @@ For example:
  
 ## Starting a new project (fresh)
 
-1. Create a new create a new repository in Github (include a README)
+1. Create a new repository in Github (include a README)
 
 2. Click ```Clone or download``` and copy the link to your clipboard
 
@@ -53,7 +53,7 @@ For example:
 
 ## Adding Git / Github to an existing project
 
-1. Create a new create a new repository in Github (to make it easier, do not include a README)
+1. Create a new repository in Github (to make it easier, do not include a README)
 
 2. Click ```Clone or download``` and copy the link to your clipboard (keep it on your clipboard, we're going to use it in step 5)
 
