@@ -14,8 +14,7 @@ Below are very basic Git steps and commands for reference. If you need additiona
 
 For example:
 
-```
-    $ git add -h
+``` $ git add -h
     usage: git add [<options>] [--] <pathspec>...
 
     -n, --dry-run         dry run
@@ -32,8 +31,7 @@ For example:
     --refresh             don't add, only refresh the index
     --ignore-errors       just skip files which cannot be added because of errors
     --ignore-missing      check if - even missing - files are ignored in dry run
-    --chmod <(+/-)x>      override the executable bit of the listed files
- ```
+    --chmod <(+/-)x>      override the executable bit of the listed files```
  
 ## Starting a new project (fresh)
 
