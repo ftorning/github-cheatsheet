@@ -2,7 +2,7 @@
 
 ## A couple of notes
 
-Once you have created a local repository in a local directory, you must be in that directory to make any changes (pull, push add, etc)
+Once you have created a local repository in a directory, you must be in that directory to make any changes (pull, push add, etc)
 
 You will sometimes here Git and Github used interchangeably, but they are completely different things:
 
