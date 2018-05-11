@@ -4,8 +4,9 @@ Below are very basic Github steps and commands for reference. If you need additi
 
 For example:
 
-``$ git add -h
-usage: git add [<options>] [--] <pathspec>...
+``
+    $ git add -h
+    usage: git add [<options>] [--] <pathspec>...
 
     -n, --dry-run         dry run
     -v, --verbose         be verbose
@@ -21,7 +22,8 @@ usage: git add [<options>] [--] <pathspec>...
     --refresh             don't add, only refresh the index
     --ignore-errors       just skip files which cannot be added because of errors
     --ignore-missing      check if - even missing - files are ignored in dry run
-    --chmod <(+/-)x>      override the executable bit of the listed files``
+    --chmod <(+/-)x>      override the executable bit of the listed files
+ ``
  
 ## Starting a new project (fresh)
 
@@ -29,12 +31,12 @@ usage: git add [<options>] [--] <pathspec>...
 2. Click `Clone or download` and copy the link to your clipboard
 3. Open `Git Bash` and navigate to the directory where you want to save the repository
 4. Clone the remote repository into the current directory (note that this will create a NEW directory within the working directory)
-  * ``$ git clone git@github.com:ftorning/github-cheatsheet.git``
+    * ``$ git clone git@github.com:ftorning/github-cheatsheet.git``
 5. `cd` into the new directory
-  * ``$ cd github-cheatsheet``
+    * ``$ cd github-cheatsheet``
 
 ## Adding Git to an existing project
 
 1. Open `Git Bash` and navigate to the directory where the project is located
 2. Initiate a new Git repository
-  *
+    *
