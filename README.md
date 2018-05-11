@@ -47,7 +47,7 @@ For example:
     * ```$ git clone git@github.com:user/repo.git```
 
 5. `cd` into the new directory
-    * ```$ cd <repo>```
+    * ```$ cd <repo directory>```
   
 6. That's it! Begin working on your project and follow the **Committing files and Pushing to Github** instructions when it's time to commit your work (which should be frequently - it will save you a ton of time and frustration)
 
