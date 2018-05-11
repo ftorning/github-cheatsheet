@@ -44,10 +44,10 @@ For example:
 3. Open `Git Bash` and navigate to the directory where you want to save the repository
 
 4. Clone the remote repository into the current directory (note that this will create a NEW directory within the working directory)
-  * ```$ git clone git@github.com:user/repo.git```
+    * ```$ git clone git@github.com:user/repo.git```
 
 5. `cd` into the new directory
-  * ```$ cd github-cheatsheet```
+    * ```$ cd github-cheatsheet```
   
 6. That's it! Begin working on your project and follow the **Committing files and Pushing to Github** instructions when it's time to commit your work (which should be frequently - it will save you a ton of time and frustration)
 
@@ -60,10 +60,10 @@ For example:
 3. Open ```Git Bash``` and navigate to the directory where the project is located
 
 4. Initiate a new Git repository
-  * ```$ git init```
+    * ```$ git init```
 
 5. Set the Github repository you created as the ```remote``` location for your Git repository
-  * ```$ git remote add origin git@github.com:user/repo.git```
+    * ```$ git remote add origin git@github.com:user/repo.git```
     
 6. Follow the **Committing files and Pushing to Github** instructions to make an initial commit
 
@@ -76,17 +76,17 @@ NOTE - if you are working collaboratively (and not branching, which you don't ha
 1. Open `Git Bash` and navigate to the repository directory
 
 2. Add (stage) your changes (`-A` flag adds all files)
-  * ```$ git add -A```
+    * ```$ git add -A```
 
 3. Not necessary, but you can check the status of your changes
-  * ```$ git status```
+    * ```$ git status```
 
 4. If everything looks as expected, commit your changes (`-m` is a message flag, be sure to always include)
-  * ```$ git commit -m "this is my descriptive message"```
-  * If you ever forget to include a message, git will try to force you by opening vi/vim, which is a dumpster fire, so always include a message (sorry vi/vim fans)
+    * ```$ git commit -m "this is my descriptive message"```
+    * If you ever forget to include a message, git will try to force you by opening vi/vim, which is a dumpster fire, so always include a message (sorry vi/vim fans)
 
 5. Push your commit to Github
-  * ```$ git push origin master```
+    * ```$ git push origin master```
   
 6. If you want, check Github to make sure changes have been successfully pushed
   
