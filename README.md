@@ -67,7 +67,7 @@ You will sometimes hear Git and Github used interchangeably, but they are comple
 
    * Github is a website that stores repositories on the internet (remotely) an allows multiple people to work collaboratively on the same project without making conflicting changes.
 
-Below are very basic Git steps and commands for reference. If you need additional information or are unsure about the use of a function, use ``$ git <function> -h`` for a manual (this works for linux commands too!)
+If you need additional information or are unsure about the use of a function, use ``$ git <function> -h`` for a manual (this works for linux commands too!)
 
 For example:
 
