@@ -1,6 +1,16 @@
 # Git Cheatsheet
 
-Below are very basic Github steps and commands for reference. If you need additional information or are unsure about the use of a function, use ``$ git <function> -h`` for a manual (this works for linux commands too!)
+## A couple of notes
+
+Once you have created a local repository in a local directory, you must be in that directory to make any changes (pull, push add, etc)
+
+You will sometimes here Git and Github used interchangeably, but they are completely different things:
+
+        *Git is a version control system (which for class, we access through Git Bash). Git allows us to create repositories for projects where work can be tracked and done collaboratively. A git repo is saved in the directory where the project is located, usually in a hidden sub-directory ```.git```.
+
+        *Github is a website that stpres repositories on the internet (remotely) an allows multiple people to work collaboratively on the same project without making conflicting changes.
+
+Below are very basic Git steps and commands for reference. If you need additional information or are unsure about the use of a function, use ``$ git <function> -h`` for a manual (this works for linux commands too!)
 
 For example:
 
@@ -39,9 +49,11 @@ For example:
 5. `cd` into the new directory
     * ```$ cd github-cheatsheet```
 
-## Adding Git to an existing project
+## Adding Git / Github to an existing project
+
+1. Create a new create a new repository in Github
 
 1. Open ```Git Bash``` and navigate to the directory where the project is located
 
 2. Initiate a new Git repository
-    *
+    * ```git init```
