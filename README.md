@@ -69,9 +69,7 @@ For example:
 
 ## Committing files and pushing to Github
 
-NOTE - if you are working collaboratively (and not branching, which you don't have to worry about *yet*), be sure to check to see if any code has changed on Github before making any commits
-
-* ```$ git pull origin master```
+NOTE - if you are working collaboratively (and not branching, which you don't have to worry about *yet*), be sure to check to see if any code has changed on Github before making any commits - ```$ git pull origin master```
 
 1. Open `Git Bash` and navigate to the repository directory
 
