@@ -4,7 +4,7 @@
 
 Once you have created a local repository in a directory, you must be in that directory to make any changes (pull, push add, etc)
 
-You will sometimes here Git and Github used interchangeably, but they are completely different things:
+You will sometimes hear Git and Github used interchangeably, but they are completely different things:
 
    * Git is a version control system (which for class, we access through Git Bash). Git allows us to create repositories for projects where work can be tracked and done collaboratively. A git repo is saved in the directory where the project is located, usually in a hidden sub-directory ```.git```.
 
